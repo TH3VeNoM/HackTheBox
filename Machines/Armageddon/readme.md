@@ -1,1 +1,1 @@
-use root $hashed part in /etc/shadow file
+use root hashed part in /etc/shadow file
