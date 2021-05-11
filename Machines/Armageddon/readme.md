@@ -1,1 +1,1 @@
-Use root hash for decryption
+use root $hashed part in /etc/shadow file
